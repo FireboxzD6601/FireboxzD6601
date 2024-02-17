@@ -1,7 +1,7 @@
 //import scanner
 import java.util.Scanner;
 
-public class Main { // Make sure the class name is same as the filename
+public class JavaTakingInput { // Make sure the class name is same as the filename
     public static void main(String[ ] args) {
         // Print Out Message With Line Created
         Scanner sc = new Scanner(System.in);
